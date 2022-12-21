@@ -1,4 +1,4 @@
- a class Square"""
+a class Square"""
 
 
 class Square:
